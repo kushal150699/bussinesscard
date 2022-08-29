@@ -1,0 +1,25 @@
+body{
+    margin:20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.avatar{
+    width:150px;
+    border-radius: 0 20px;
+}
+
+.card{
+    display:flex;
+    justify-content: space-around;
+    background: #A66CFF;
+    margin: auto;
+    width:400px;
+    padding: 20px;
+    text-align: center;
+    color: 781C68;
+    border-bottom: 6px solid #d8cefe;
+    border-radius: 10px;
+    background-image: repeating-linear-gradient(45deg, #6FEDD6 10%, #A66CFF 45%, #C1EFFF 95%, #d8cefe 10%, #B9FFF8 100%);
+}
+
+
